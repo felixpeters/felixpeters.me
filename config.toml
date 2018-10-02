@@ -1,0 +1,45 @@
+baseURL = "https://felixpeters.me/"
+languageCode = "en-us"
+title = "Felix Peters"
+theme = "hyde-hyde"
+
+enableRobotsTXT = true
+googleAnalytics = ""
+
+summarylength = 30
+paginate = 10
+
+## Site Settings
+[params]
+    author = "Felix Peters"
+    title = "Title"
+    description = "PhD student and startup advisor"
+    authorimage = "/img/felix.jpg"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    highlightjsstyle = "github"
+
+## Social Accounts
+[params.social]
+    github = "felixpeters"
+    xing = "Felix_Peters26"
+    linkedin = "petersfelix"
+    twitter = "_fpeters"
+    email = "peters@is.tu-darmstadt.de"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
+
+[params.meta]
+    description = "Personal blog of a PhD student and startup advisor"
+    keywords = "python, startup"
+        
