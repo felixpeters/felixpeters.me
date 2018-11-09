@@ -41,5 +41,5 @@ paginate = 10
 
 [params.meta]
     description = "Personal blog of a PhD student and startup advisor"
-    keywords = "python, startup"
+    keywords = "machine learning, artificial intelligence, information systems, phd, data science, python"
         
