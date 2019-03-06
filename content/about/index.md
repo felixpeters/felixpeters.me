@@ -46,7 +46,7 @@ Cloud platform, Paperspace Gradient)
 
 Currently, I am diving deeper into deep probabilisitc programming and Bayesian
 methods in general.
-If you are interested in elaborating on new projects, please feel gree to contact
+If you are interested in elaborating on new projects, please feel free to contact
 me via the channels listed on this site.
 
 ### Other interests
