@@ -4,7 +4,7 @@ title = "Felix Peters"
 theme = "hyde-hyde"
 
 enableRobotsTXT = true
-googleAnalytics = ""
+googleAnalytics = "UA-136930582-1"
 
 summarylength = 30
 paginate = 10
@@ -25,7 +25,7 @@ paginate = 10
     xing = "Felix_Peters26"
     linkedin = "petersfelix"
     twitter = "_fpeters"
-    email = "peters@is.tu-darmstadt.de"
+    email = "felix@felixpeters.me"
 
 ## Main Menu
 [[menu.main]]
@@ -38,8 +38,13 @@ paginate = 10
     identifier = "about"
     weight = 300
     url = "/about/"
+[[menu.main]]
+    name = "Imprint"
+    identifier = "imprint"
+    weight = 500
+    url = "/imprint/"
 
 [params.meta]
-    description = "Personal blog of a PhD student and startup advisor"
+    description = "Personal blog of a PhD student and data scientist"
     keywords = "machine learning, artificial intelligence, information systems, phd, data science, python"
         

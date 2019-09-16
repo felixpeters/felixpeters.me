@@ -14,9 +14,9 @@ Ever since my Masters degree studies in Information Systems, my main interests
 lie in applying machine learning techniques to real-world problems. In detail,
 my research interests include:
 
-- prediction of tweet popularity through transfer learning (see [GitHub](https://github.com/felixpeters/retweet-prediction))
-- effects of AI on business models and human-machine collaboration
-- how to guarantee AI safety and deal with black-box systems in regulated environments
+- Transparency of Intelligent Systems
+- Economics of Artificial Intelligence
+- Machine Learning
 
 ### Work with startups
 
