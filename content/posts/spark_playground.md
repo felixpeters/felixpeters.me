@@ -1,5 +1,6 @@
 ---
 title: "How to run a local Spark cluster"
+type: posts
 date: 2019-09-16T14:43:56+02:00
 ---
 

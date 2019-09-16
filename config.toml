@@ -19,6 +19,9 @@ paginate = 10
     highlightjs = true
     highlightjsstyle = "github"
 
+[permalinks]
+  posts = "/:year/:month/:title/"
+
 ## Social Accounts
 [params.social]
     github = "felixpeters"
