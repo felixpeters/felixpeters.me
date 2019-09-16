@@ -19,7 +19,7 @@ yourself, please refer to the usage instructions in the repository.
 
 ## Cluster overview
 
-<img src="../img/cluster_overview.png" style="width: 70%; margin-top: 50px"/>
+<img src="../../../posts/img/cluster_overview.png" style="width: 70%; margin-top: 50px"/>
 
 As you can see in the above image, my Spark cluster comprises four distinct roles:
 
