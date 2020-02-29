@@ -4,3 +4,6 @@
 body.about .post__meta {
   display: none;
 }
+body.consulting .post__meta {
+  display: none;
+}
