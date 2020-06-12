@@ -20,7 +20,7 @@ paginate = 10
     highlightjsstyle = "github"
 
 [permalinks]
-  posts = "/:year/:month/:title/"
+  posts = "/:year/:month/:slug/"
 
 ## Social Accounts
 [params.social]
@@ -54,5 +54,5 @@ paginate = 10
 
 [params.meta]
     description = "Personal blog of a PhD student and data scientist"
-    keywords = "machine learning, artificial intelligence, information systems, phd, data science, python, consulting, research"
+    keywords = "machine learning, artificial intelligence, ethical AI, explainable AI, data science, consulting, research"
         
