@@ -1,7 +1,6 @@
 ---
 title: "AI Transparency Roundup #1"
 date: 2020-06-01T14:43:56+02:00
-draft: True
 slug: ai-transparency-roundup-1
 include_toc: True
 keywords:
